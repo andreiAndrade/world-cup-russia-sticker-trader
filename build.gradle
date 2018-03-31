@@ -15,9 +15,28 @@ apply plugin: 'eclipse'
 apply plugin: 'org.springframework.boot'
 apply plugin: 'io.spring.dependency-management'
 
+apply plugin: 'pmd'
+apply plugin: 'checkstyle'
+
 group = 'com.world.cup.sticker.brick'
 version = '0.0.1-SNAPSHOT'
-sourceCompatibility = 9
+sourceCompatibility = 10
+targetCompatibility = 10
+
+compileJava {
+    sourceCompatibility = '10'
+    targetCompatibility = '10'
+}
+
+checkstyle {
+    configFile = new File(rootDir, "config/checkstyle/checkstyle.xml")
+    ignoreFailures = true
+}
+
+pmd {
+    ruleSetFiles = files(rootDir, "config/pmd/pmd.xml")
+    ignoreFailures = true
+}
 
 repositories {
 	mavenCentral()
@@ -30,7 +49,10 @@ ext {
 }
 
 dependencies {
-	compile('org.springframework.boot:spring-boot-starter-data-mongodb')
+	compile group: 'com.puppycrawl.tools', name: 'checkstyle', version: '8.8'
+    compile group: 'net.sourceforge.pmd', name: 'pmd', version: '6.1.0', ext: 'pom'
+
+    compile('org.springframework.boot:spring-boot-starter-data-mongodb')
 	compile('org.springframework.boot:spring-boot-starter-hateoas')
 	compile('org.springframework.boot:spring-boot-starter-security')
 	compile('org.springframework.boot:spring-boot-starter-validation')

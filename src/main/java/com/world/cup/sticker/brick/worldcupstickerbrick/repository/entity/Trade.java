@@ -1,5 +1,6 @@
 package com.world.cup.sticker.brick.worldcupstickerbrick.repository.entity;
 
+import com.world.cup.sticker.brick.worldcupstickerbrick.repository.entity.enums.TradeStatus;
 import lombok.AllArgsConstructor;
 import lombok.EqualsAndHashCode;
 import lombok.Getter;
@@ -8,7 +9,7 @@ import lombok.Setter;
 import lombok.ToString;
 
 /**
- * POJO that represents a sticker.
+ * POJO that represents a Trade between two {@link Trader}.
  *
  * @author gabriel.beck.santos@gmail.com
  * @since 07/04/18
@@ -19,10 +20,9 @@ import lombok.ToString;
 @Setter
 @NoArgsConstructor
 @AllArgsConstructor
-public class Sticker {
+public class Trade {
 
-  private String name;
-  private Integer number;
-  private String group;
-
+  private Trader traderA;
+  private Trader traderB;
+  private TradeStatus status;
 }

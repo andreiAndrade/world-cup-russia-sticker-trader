@@ -1,5 +1,6 @@
 package com.world.cup.sticker.brick.worldcupstickerbrick.repository.entity;
 
+import java.util.List;
 import lombok.AllArgsConstructor;
 import lombok.EqualsAndHashCode;
 import lombok.Getter;
@@ -8,7 +9,7 @@ import lombok.Setter;
 import lombok.ToString;
 
 /**
- * POJO that represents a sticker.
+ * POJO that represents a trader with your trading stickers.
  *
  * @author gabriel.beck.santos@gmail.com
  * @since 07/04/18
@@ -19,10 +20,9 @@ import lombok.ToString;
 @Setter
 @NoArgsConstructor
 @AllArgsConstructor
-public class Sticker {
+public class Trader {
 
-  private String name;
-  private Integer number;
-  private String group;
+  private User user;
+  private List<Sticker> tradingStickers;
 
 }

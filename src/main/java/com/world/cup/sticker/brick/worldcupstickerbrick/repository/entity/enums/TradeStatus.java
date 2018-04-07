@@ -1,4 +1,4 @@
-package com.world.cup.sticker.brick.worldcupstickerbrick.repository.entity;
+package com.world.cup.sticker.brick.worldcupstickerbrick.repository.entity.enums;
 
 import lombok.AllArgsConstructor;
 import lombok.EqualsAndHashCode;
@@ -8,7 +8,7 @@ import lombok.Setter;
 import lombok.ToString;
 
 /**
- * POJO that represents a sticker.
+ * Enum that represents the status of a trade.
  *
  * @author gabriel.beck.santos@gmail.com
  * @since 07/04/18
@@ -19,10 +19,8 @@ import lombok.ToString;
 @Setter
 @NoArgsConstructor
 @AllArgsConstructor
-public class Sticker {
-
-  private String name;
-  private Integer number;
-  private String group;
-
+public enum TradeStatus {
+  PENDING,
+  ACCEPTED,
+  CLOSED;
 }

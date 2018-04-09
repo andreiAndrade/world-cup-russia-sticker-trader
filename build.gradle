@@ -20,12 +20,12 @@ apply plugin: 'checkstyle'
 
 group = 'com.world.cup.sticker.brick'
 version = '0.0.1-SNAPSHOT'
-sourceCompatibility = 10
-targetCompatibility = 10
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
 
 compileJava {
-    sourceCompatibility = '10'
-    targetCompatibility = '10'
+    sourceCompatibility = '1.8'
+    targetCompatibility = '1.8'
 }
 
 checkstyle {

@@ -6,6 +6,7 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 import lombok.ToString;
+import org.springframework.data.annotation.Id;
 
 /**
  * POJO that represents a sticker.
@@ -21,8 +22,8 @@ import lombok.ToString;
 @AllArgsConstructor
 public class Sticker {
 
-  private String name;
-  private Integer number;
-  private String group;
-
+    @Id
+    private Integer number;
+    private String name;
+    private String group;
 }

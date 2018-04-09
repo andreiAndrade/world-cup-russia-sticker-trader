@@ -1,0 +1,745 @@
+especial 0 Panini Knight Logo
+especial 1 FIFA Logo
+especial 2 World Cup Trophy
+especial 3 2018 World Cup Graphic Top
+especial 4 2018 World Cup Graphic Bottom
+especial 5 2018 World Cup Logo Top
+especial 6 2018 World Cup Logo Bottom
+especial 7 adidas Official Ball
+stadiums 8 Ekaterinburg Arena
+stadiums 9 Kaliningrad Stadium
+stadiums 10 Kazan Arena
+stadiums 11 Spartak Stadium
+stadiums 12 Nizhny Novgorod Stadium
+stadiums 13 Luzhniki Stadium
+stadiums 14 Rostov Arena
+stadiums 15 Saint Petersburg Stadium
+stadiums 16 Samara Arena
+stadiums 17 Mordovia Arena
+stadiums 18 Fisht Stadium
+stadiums 19 Volgograd Arena
+cities 20 Moscow Host City Poster part 1
+cities 21 Moscow Host City Poster part 2
+cities 22 Kaliningrad Host City Poster
+cities 23 Saint Petersburg Host City Poster
+cities 24 Sochi Host City Poster
+cities 25 Rostov-On-Don Host City Poster
+cities 26 Volgograd Host City Poster
+cities 27 Kazan Host City Poster
+cities 28 Nizhny Novgorod Host City Poster
+cities 29 Samara Host City Poster
+cities 30 Ekaterinburg Host City Poster
+cities 31 Saransk Host City Poster
+
+ARGENTINA
+argentina 272 Argentina Team Logo
+argentina 273 Argentina Team Photo
+argentina 274 Sergio Romero
+argentina 275 Gabriel Mercado
+argentina 276 Federico Fazio
+argentina 277 Javier Mascherano
+argentina 278 Nicolas Otamendi
+argentina 279 Marcos Rojo
+argentina 280 Ramiro Funes Mori
+argentina 281 Lucas Biglia
+argentina 282 Enzo Perez
+argentina 283 Angel Di Maria
+argentina 284 Marcos Acuna
+argentina 285 Ever Banega
+argentina 286 Eduardo Salvio
+argentina 287 Mauro Icardi
+argentina 288 Lionel Messi
+argentina 289 Paulo Dybala
+argentina 290 Sergio Aguero
+argentina 291 Gonzalo Higuain
+legends 676 86 Argentina WCL
+
+AUSTRALIA
+australia 212 Australia Team Logo
+australia 213 Australia Team Photo
+australia 214 Mathew Ryan
+australia 215 Mitchell Langerak
+australia 216 Milos Degenek
+australia 217 Bailey Wright
+australia 218 Aziz Behich
+australia 219 Trent Sainsbury
+australia 220 Ryan McGowan
+australia 221 Mark Milligan
+australia 222 Aaron Mooy
+australia 223 James Troisi
+australia 224 Mile Jedinak
+australia 225 Massimo Luongo
+australia 226 Jackson Irvine
+australia 227 Tom Rogic
+australia 228 Tim Cahill
+australia 229 Mathew Leckie
+australia 230 Tomi Juric
+australia 231 Robbie Kruse
+
+BELGIUM
+belgium 512 Belgium Team Logo
+belgium 513 Belgium Team Photo
+belgium 514 Thibaut Courtois
+belgium 515 Toby Alderweireld
+belgium 516 Thomas Vermaelen
+belgium 517 Jan Vertonghen
+belgium 518 Vincent Kompany
+belgium 519 Thomas Meunier
+belgium 520 Axel Witsel
+belgium 521 Radja Nainggolan
+belgium 522 Kevin De Bruyne
+belgium 523 Marouane Fellaini
+belgium 524 Youri Tielemans
+belgium 525 Mousa Dembele
+belgium 526 Nacer Chadli
+belgium 527 Eden Hazard
+belgium 528 Yannick Carrasco
+belgium 529 Dries Mertens
+belgium 530 Michy Batshuayi
+belgium 531 Romelu Lukaku
+
+BRAZIL
+brazil 352 Brazil Team Logo
+brazil 353 Brazil Team Photo
+brazil 354 Alisson
+brazil 355 Dani Alves
+brazil 356 Thiago Silva
+brazil 357 Miranda
+brazil 358 Filipe Luis
+brazil 359 Marquinhos
+brazil 360 Marcelo
+brazil 361 Willian
+brazil 362 Paulinho
+brazil 363 Fernandinho
+brazil 364 Casemiro
+brazil 365 Renato Augusto
+brazil 366 Giuliano
+brazil 367 Philippe Coutinho
+brazil 368 Douglas Costa
+brazil 369 Roberto Firmino
+brazil 370 Gabriel Jesus
+brazil 371 Neymar Jr
+legends 672 58 Brazil WCL
+legends 680 Pele WCL
+
+COLOMBIA
+colombia 632 Colombia Team Logo
+colombia 633 Colombia Team Photo
+colombia 634 David Ospina
+colombia 635 Cristian Zapata
+colombia 636 Santiago Arias
+colombia 637 Frank Fabra
+colombia 638 Davinson Sanchez
+colombia 639 Yerry Mina
+colombia 640 Carlos Sanchez
+colombia 641 Juan Guillermo Cuadrado
+colombia 642 Abel Aguilar
+colombia 643 James Rodriguez
+colombia 644 Giovanni Moreno
+colombia 645 Wilmar Barrios
+colombia 646 Radamel Falcao Garcia
+colombia 647 Teofilo Gutierrez
+colombia 648 Carlos Bacca
+colombia 649 Edwin Cardona
+colombia 650 Yimmi Chara
+colombia 651 Duvan Zapata
+
+COSTA RICA
+costa rica 392 Costa Rica Team Logo
+costa rica 393 Costa Rica Team Photo
+costa rica 394 Keylor Navas
+costa rica 395 Giancarlo Gonzalez
+costa rica 396 Cristian Gamboa
+costa rica 397 Bryan Oviedo
+costa rica 398 Francisco Calvo
+costa rica 399 Kendall Waston
+costa rica 400 Ronald Matarrita
+costa rica 401 Michael Umana
+costa rica 402 Johnny Acosta
+costa rica 403 Bryan Ruiz
+costa rica 404 Celso Borges
+costa rica 405 Christian Bolanos
+costa rica 406 Randall Azofeifa
+costa rica 407 David Guzman
+costa rica 408 Rodney Wallace
+costa rica 409 Joel Campbell
+costa rica 410 Marco Urena
+costa rica 411 Johan Venegas
+
+CROATIA
+croatia 312 Croatia Team Logo
+croatia 313 Croatia Team Photo
+croatia 314 Danijel Subasic
+croatia 315 Sime Vrsaljko
+croatia 316 Ivan Strinic
+croatia 317 Dejan Lovren
+croatia 318 Domagoj Vida
+croatia 319 Josip Pivaric
+croatia 320 Vedran Corluka
+croatia 321 Ivan Rakitic
+croatia 322 Luka Modric
+croatia 323 Marcelo Brozovic
+croatia 324 Marko Rog
+croatia 325 Mario Pasalic
+croatia 326 Milan Badelj
+croatia 327 Mateo Kovacic
+croatia 328 Andrej Kramaric
+croatia 329 Nikola Kalinic
+croatia 330 Mario Mandzukic
+croatia 331 Ivan Perisic
+
+DENMARK
+denmark 252 Denmark Team Logo
+denmark 253 Denmark Team Photo
+denmark 254 Kasper Schmeichel
+denmark 255 Jannik Vestergaard
+denmark 256 Simon Kjaer
+denmark 257 Andreas Christensen
+denmark 258 Andreas Bjelland
+denmark 259 Mathias Jorgensen
+denmark 260 Jens Stryger Larsen
+denmark 261 Peter Ankersen
+denmark 262 Riza Durmisi
+denmark 263 William Kvist
+denmark 264 Thomas Delaney
+denmark 265 Christian Eriksen
+denmark 266 Lasse Schone
+denmark 267 Pione Sisto
+denmark 268 Nicklas Bendtner
+denmark 269 Nicolai Jorgensen
+denmark 270 Yussuf Poulsen
+denmark 271 Andreas Cornelius
+
+EGYPT
+egypt 72 Egypt Team Logo
+egypt 73 Egypt Team Photo
+egypt 74 Essam El Hadary
+egypt 75 Ali Gabr
+egypt 76 Ahmed Elmohamady
+egypt 77 Omar Gaber
+egypt 78 Ramy Rabia
+egypt 79 Ahmed Hegazi
+egypt 80 Ahmed Abdelmonem Fathy
+egypt 81 Mohamed Abdel Shafy
+egypt 82 Saad El-Din Samir
+egypt 83 Tarek Hamed
+egypt 84 Mahmoud Kahraba
+egypt 85 Mohamed Elneny
+egypt 86 Trezeguet
+egypt 87 Abdallah El Said
+egypt 88 Ramadan Sobhi
+egypt 89 Ahmed Hassan
+egypt 90 Mohamed Salah
+egypt 91 Amr Gamal
+
+ENGLAND
+england 572 England Team Logo
+england 573 England Team Photo
+england 574 Joe Hart
+england 575 Jordan Pickford
+england 576 Gary Cahill
+england 577 Kyle Walker
+england 578 John Stones
+england 579 Ryan Bertrand
+england 580 Danny Rose
+england 581 Phil Jones
+england 582 Jordan Henderson
+england 583 Alex Oxlade-Chamberlain
+england 584 Dele Alli
+england 585 Eric Dier
+england 586 Adam Lallana
+england 587 Jesse Lingard
+england 588 Raheem Sterling
+england 589 Harry Kane
+england 590 Marcus Rashford
+england 591 Jamie Vardy
+legends 677 66 England WCL
+
+FRANCE
+france 192 France Team Logo
+france 193 France Team Photo
+france 194 Hugo Lloris
+france 195 Raphael Varane
+france 196 Lucas Digne
+france 197 Djibril Sidibe
+france 198 Samuel Umtiti
+france 199 Layvin Kurzawa
+france 200 Laurent Koscielny
+france 201 Blaise Matuidi
+france 202 N’Golo Kante
+france 203 Thomas Lemar
+france 204 Adrien Rabiot
+france 205 Paul Pogba
+france 206 Olivier Giroud
+france 207 Antoine Griezmann
+france 208 Alexandre Lacazette
+france 209 Kylian Mbappe
+france 210 Ousmane Dembele
+france 211 Anthony Martial
+legends 678 98 France WCL
+
+GERMANY
+germany 432 Germany Team Logo
+germany 433 Germany Team Photo
+germany 434 Manuel Neuer
+germany 435 Mats Hummels
+germany 436 Antonio Rudiger
+germany 437 Jerome Boateng
+germany 438 Joshua Kimmich
+germany 439 Jonas Hector
+germany 440 Julian Draxler
+germany 441 Toni Kroos
+germany 442 Emre Can
+germany 443 Leon Goretzka
+germany 444 Julian Brandt
+germany 445 Sebastian Rudy
+germany 446 Leroy Sane
+germany 447 Mesut Ozil
+germany 448 Sami Khedira
+germany 449 Mario Gotze
+germany 450 Thomas Muller
+germany 451 Timo Werner
+legends 673 14 Germany WCL
+legends 681 Miroslav Klose WCL
+
+ICELAND
+iceland 292 Iceland Team Logo
+iceland 293 Iceland Team Photo
+iceland 294 Hannes Halldorsson
+iceland 295 Birkir Saevarsson
+iceland 296 Ragnar Sigurdsson
+iceland 297 Kari Arnason
+iceland 298 Ari Skulason
+iceland 299 Sverrir Ingason
+iceland 300 Hordur Magnusson
+iceland 301 Aron Gunnarsson
+iceland 302 Birkir Bjarnason
+iceland 303 Emil Hallfredsson
+iceland 304 Gylfi Sigurdsson
+iceland 305 Arnor Ingvi Traustason
+iceland 306 Rurik Gislason
+iceland 307 Johann Gudmundsson
+iceland 308 Alfred Finnbogason
+iceland 309 Jon Dadi Bodvarsson
+iceland 310 Vidar Orn Kjartansson
+iceland 311 Bjorn Sigurdarson
+
+IRAN
+iran 172 Iran Team Logo
+iran 173 Iran Team Photo
+iran 174 Alireza Beiranvand
+iran 175 Pejman Montazeri
+iran 176 Vouria Ghafouri
+iran 177 Jalal Hosseini
+iran 178 Milad Mohammadi
+iran 179 Morteza Pouraliganji
+iran 180 Ramin Rezaeian
+iran 181 Ehsan Hajsafi
+iran 182 Omid Ebrahimi
+iran 183 Saeid Ezatolahi
+iran 184 Vahid Amiri
+iran 185 Alireza Jahanbakhsh
+iran 186 Ashkan Dejagah
+iran 187 Saman Ghoddos
+iran 188 Mehdi Taremi
+iran 189 Karim Ansarifard
+iran 190 Reza Ghoochannejhad
+iran 191 Sardar Azmoun
+
+JAPAN
+japan 652 Japan Team Logo
+japan 653 Japan Team Photo
+japan 654 Eiji Kawashima
+japan 655 Shusaku Nishikawa
+japan 656 Masato Morishige
+japan 657 Yuto Nagatomo
+japan 658 Hiroki Sakai
+japan 659 Tomoaki Makino
+japan 660 Gotoku Sakai
+japan 661 Maya Yoshida
+japan 662 Hotaru Yamaguchi
+japan 663 Shinji Kagawa
+japan 664 Makoto Hasebe
+japan 665 Hiroshi Kiyotake
+japan 666 Keisuke Honda
+japan 667 Takashi Usami
+japan 668 Genki Haraguchi
+japan 669 Shinji Okazaki
+japan 670 Yuya Kubo
+japan 671 Yuya Osako
+
+KOREA REPUBLIC
+korea republic 492 Korea Republic Team Logo
+korea republic 493 Korea Republic Team Photo
+korea republic 494 Kim Seunggyu
+korea republic 495 Kim Younggwon
+korea republic 496 Kim Jinsu
+korea republic 497 Kwak Taehwi
+korea republic 498 Hong Jeongho
+korea republic 499 Jang Hyunsoo
+korea republic 500 Koo Jacheol
+korea republic 501 Kwon Changhoon
+korea republic 502 Ki Sungyueng
+korea republic 503 Nam Taehee
+korea republic 504 Han Kookyoung
+korea republic 505 Lee Chungyong
+korea republic 506 Jung Wooyoung
+korea republic 507 Lee Jaesung
+korea republic 508 Son Heungmin
+korea republic 509 Ji Dongwon
+korea republic 510 Kim Shinwook
+korea republic 511 Hwang Heechan
+
+MEXICO
+mexico 452 Mexico Team Logo
+mexico 453 Mexico Team Photo
+mexico 454 Guillermo Ochoa
+mexico 455 Hugo Ayala
+mexico 456 Diego Reyes
+mexico 457 Hector Moreno
+mexico 458 Jesus Gallardo
+mexico 459 Miguel Layun
+mexico 460 Carlos Salcedo
+mexico 461 Jonathan dos Santos
+mexico 462 Giovani dos Santos
+mexico 463 Andres Guardado
+mexico 464 Hector Herrera
+mexico 465 Javier Aquino
+mexico 466 Jesus Corona
+mexico 467 Hirving Lozano
+mexico 468 Raul Jimenez
+mexico 469 Carlos Vela
+mexico 470 Javier Hernandez
+mexico 471 Oribe Peralta
+
+MOROCCO
+morocco 152 Morocco Team Logo
+morocco 153 Morocco Team Photo
+morocco 154 Munir Mohamedi
+morocco 155 Medhi Benatia
+morocco 156 Nabil Dirar
+morocco 157 Romain Saiss
+morocco 158 Fouad Chafik
+morocco 159 Hamza Mendyl
+morocco 160 Achraf Hakimi
+morocco 161 Mbark Boussoufa
+morocco 162 Karim El Ahmadi
+morocco 163 Younes Belhanda
+morocco 164 Nordin Amrabat
+morocco 165 Faycal Fajr
+morocco 166 Hakim Ziyech
+morocco 167 Youssef Ait Bennasser
+morocco 168 Khalid Boutaib
+morocco 169 Rachid Alioui
+morocco 170 Aziz Bouhaddouz
+morocco 171 Youssef En-Nesyri
+
+NIGERIA
+nigeria 332 Nigeria Team Logo
+nigeria 333 Nigeria Team Photo
+nigeria 334 Ikechukwu Ezenwa
+nigeria 335 Elderson Echiejile
+nigeria 336 Shehu Abdullahi
+nigeria 337 William Troost-Ekong
+nigeria 338 Leon Balogun
+nigeria 339 Kenneth Omeruo
+nigeria 340 Ola Aina
+nigeria 341 John Obi Mikel
+nigeria 342 Ogenyi Onazi
+nigeria 343 Etebo Oghenekaro
+nigeria 344 Wilfred Ndidi
+nigeria 345 Mikel Agu
+nigeria 346 Ahmed Musa
+nigeria 347 Victor Moses
+nigeria 348 Moses Simon
+nigeria 349 Odion Ighalo
+nigeria 350 Alex Iwobi
+nigeria 351 Kelechi Iheanacho
+
+PANAMA
+panama 532 Panama Team Logo
+panama 533 Panama Team Photo
+panama 534 Jaime Penedo
+panama 535 Jose Calderon
+panama 536 Michael Murillo
+panama 537 Fidel Escobar
+panama 538 Roman Torres
+panama 539 Adolfo Machado
+panama 540 Eric Davis
+panama 541 Luis Ovalle
+panama 542 Felipe Baloy
+panama 543 Gabriel Gomez
+panama 544 Edgar Barcenas
+panama 545 Armando Cooper
+panama 546 Alberto Quintero
+panama 547 Anibal Godoy
+panama 548 Blas Perez
+panama 549 Gabriel Torres
+panama 550 Luis Tejada
+panama 551 Abdiel Arroyo
+
+PERU
+peru 232 Peru Team Logo
+peru 233 Peru Team Photo
+peru 234 Pedro Gallese
+peru 235 Carlos Caceda
+peru 236 Aldo Corzo
+peru 237 Miguel Trauco
+peru 238 Christian Ramos
+peru 239 Luis Advincula
+peru 240 Alberto Rodriguez
+peru 241 Miguel Araujo
+peru 242 Christian Cueva
+peru 243 Renato Tapia
+peru 244 Andy Polo
+peru 245 Yoshimar Yotun
+peru 246 Edison Flores
+peru 247 Paolo Hurtado
+peru 248 Paolo Guerrero
+peru 249 Jefferson Farfan
+peru 250 Raul Ruidiaz
+peru 251 Andre Carrillo
+
+POLAND
+poland 592 Poland Team Logo
+poland 593 Poland Team Photo
+poland 594 Lukasz Fabianski
+poland 595 Wojciech Szczesny
+poland 596 Lukasz Piszczek
+poland 597 Kamil Glik
+poland 598 Michal Pazdan
+poland 599 Thiago Cionek
+poland 600 Bartosz Bereszynski
+poland 601 Artur Jedrzejczyk
+poland 602 Maciej Rybus
+poland 603 Jakub Blaszczykowski
+poland 604 Kamil Grosicki
+poland 605 Grzegorz Krychowiak
+poland 606 Krzysztof Maczynski
+poland 607 Piotr Zielinski
+poland 608 Karol Linetty
+poland 609 Robert Lewandowski
+poland 610 Lukasz Teodorczyk
+poland 611 Arkadiusz Milik
+
+PORTUGAL
+portugal 112 Portugal Team Logo
+portugal 113 Portugal Team Photo
+portugal 114 Rui Patricio
+portugal 115 Bruno Alves
+portugal 116 Pepe
+portugal 117 Jose Fonte
+portugal 118 Eliseu
+portugal 119 Cedric
+portugal 120 Raphael Guerreiro
+portugal 121 Joao Moutinho
+portugal 122 Joao Mario
+portugal 123 Danilo Pereira
+portugal 124 William Carvalho
+portugal 125 Andre Gomes
+portugal 126 Ricardo Quaresma
+portugal 127 Bernardo Silva
+portugal 128 Andre Silva
+portugal 129 Gelson Martins
+portugal 130 Cristiano Ronaldo
+portugal 131 Nani
+
+RUSSIA
+russia 32 Russia Team Logo
+russia 33 Russia Team Photo
+russia 34 Igor Akinfeev
+russia 35 Igor Smolnikov
+russia 36 Viktor Vasin
+russia 37 Mario Fernandes
+russia 38 Fedor Kudryashov
+russia 39 Ilya Kutepov
+russia 40 Dmitri Kombarov
+russia 41 Aleksei Miranchuk
+russia 42 Denis Glushakov
+russia 43 Aleksandr Golovin
+russia 44 Yuri Zhirkov
+russia 45 Aleksandr Samedov
+russia 46 Aleksandr Erokhin
+russia 47 Alan Dzagoev
+russia 48 Daler Kuzyayev
+russia 49 Dmitry Poloz
+russia 50 Fedor Smolov
+russia 51 Aleksandr Kokorin
+
+SAUDI ARABIA
+saudi arabia 52 Saudi Arabia Team Logo
+saudi arabia 53 Saudi Arabia Team Photo
+saudi arabia 54 Abdullah Al-Mayouf
+saudi arabia 55 Osama Hawsawi
+saudi arabia 56 Abdullah Al-Zori
+saudi arabia 57 Mansour Al-Harbi
+saudi arabia 58 Omar Hawsawi
+saudi arabia 59 Yasser Al-Shahrani
+saudi arabia 60 Motaz Hawsawi
+saudi arabia 61 Mohammed Al-Beraik
+saudi arabia 62 Taisir Al-Jassim
+saudi arabia 63 Salman Al-Faraj
+saudi arabia 64 Abdulmalek Al-Khaibri
+saudi arabia 65 Salman Al-Moasher
+saudi arabia 66 Yahya Al-Shehri
+saudi arabia 67 Salem Al-Dosari
+saudi arabia 68 Nawaf Al-Abed
+saudi arabia 69 Mohammad Al-Sahlawi
+saudi arabia 70 Nasser Al-Shamrani
+saudi arabia 71 Fahad Al-Muwallad
+
+SENEGAL
+senegal 612 Senegal Team Logo
+senegal 613 Senegal Team Photo
+senegal 614 Khadim N’Diaye
+senegal 615 Kara Mbodj
+senegal 616 Lamine Gassama
+senegal 617 Kalidou Koulibaly
+senegal 618 Salif Sane
+senegal 619 Saliou Ciss
+senegal 620 Moussa Wague
+senegal 621 Idrissa Gueye
+senegal 622 Cheikhou Kouyate
+senegal 623 Cheikh Ndoye
+senegal 624 Papa Alioune N’Diaye
+senegal 625 Sadio Mane
+senegal 626 Moussa Sow
+senegal 627 Moussa Konate
+senegal 628 Keita Balde
+senegal 629 M’Baye Niang
+senegal 630 Ismaila Sarr
+senegal 631 Mame Diouf
+
+SERBIA
+serbia 412 Serbia Team Logo
+serbia 413 Serbia Team Photo
+serbia 414 Vladimir Stojkovic
+serbia 415 Branislav Ivanovic
+serbia 416 Aleksandar Kolarov
+serbia 417 Antonio Rukavina
+serbia 418 Matija Nastasic
+serbia 419 Dusko Tosic
+serbia 420 Nikola Maksimovic
+serbia 421 Jagos Vukovic
+serbia 422 Dusan Tadic
+serbia 423 Sergej Milinkovic-Savic
+serbia 424 Nemanja Matic
+serbia 425 Luka Milivojevic
+serbia 426 Adem Ljajic
+serbia 427 Nemanja Gudelj
+serbia 428 Mijat Gacinovic
+serbia 429 Filip Kostic
+serbia 430 Aleksandar Mitrovic
+serbia 431 Aleksandar Prijovic
+
+SPAIN
+spain 132 Spain Team Logo
+spain 133 Spain Team Photo
+spain 134 David de Gea
+spain 135 Jordi Alba
+spain 136 Nacho
+spain 137 Nacho Monreal
+spain 138 Gerard Pique
+spain 139 Sergio Ramos
+spain 140 Daniel Carvajal
+spain 141 Sergio Busquets
+spain 142 Thiago
+spain 143 Isco
+spain 144 Koke
+spain 145 Marco Asensio
+spain 146 Andres Iniesta
+spain 147 David Silva
+spain 148 Saul Niguez
+spain 149 Alvaro Morata
+spain 150 Vitolo
+spain 151 Diego Costa
+legends 679 10 Spain WCL
+
+SWEDEN
+sweden 472 Sweden Team Logo
+sweden 473 Sweden Team Photo
+sweden 474 Robin Olsen
+sweden 475 Mikael Lustig
+sweden 476 Victor Nilsson Lindelof
+sweden 477 Andreas Granqvist
+sweden 478 Martin Olsson
+sweden 479 Ludwig Augustinsson
+sweden 480 Emil Krafth
+sweden 481 Pontus Jansson
+sweden 482 Sebastian Larsson
+sweden 483 Emil Forsberg
+sweden 484 Gustav Svensson
+sweden 485 Viktor Claesson
+sweden 486 Jimmy Durmaz
+sweden 487 Albin Ekdal
+sweden 488 Isaac Kiese Thelin
+sweden 489 Marcus Berg
+sweden 490 John Guidetti
+sweden 491 Ola Toivonen
+
+SWITZERLAND
+switzerland 372 Switzerland Team Logo
+switzerland 373 Switzerland Team Photo
+switzerland 374 Yann Sommer
+switzerland 375 Stephan Lichtsteiner
+switzerland 376 Manuel Akanji
+switzerland 377 Michael Lang
+switzerland 378 Ricardo Rodriguez
+switzerland 379 Johan Djourou
+switzerland 380 Fabian Schar
+switzerland 381 Granit Xhaka
+switzerland 382 Steven Zuber
+switzerland 383 Blerim Dzemaili
+switzerland 384 Denis Zakaria
+switzerland 385 Xherdan Shaqiri
+switzerland 386 Valon Behrami
+switzerland 387 Gelson Fernandes
+switzerland 388 Breel Embolo
+switzerland 389 Haris Seferovic
+switzerland 390 Admir Mehmedi
+switzerland 391 Eren Derdiyok
+
+TUNISIA
+tunisia 552 Tunisia Team Logo
+tunisia 553 Tunisia Team Photo
+tunisia 554 Aymen Mathlouthi
+tunisia 555 Ali Maaloul
+tunisia 556 Syam Ben Youssef
+tunisia 557 Aymen Abdennour
+tunisia 558 Hamdi Naguez
+tunisia 559 Yassine Meriah
+tunisia 560 Oussama Haddadi
+tunisia 561 Ferjani Sassi
+tunisia 562 Wahbi Khazri
+tunisia 563 Mohamed Amine Ben Amor
+tunisia 564 Ghaylene Chaalali
+tunisia 565 Naim Sliti
+tunisia 566 Youssef Msakni
+tunisia 567 Fakhreddine Ben Youssef
+tunisia 568 Taha Yassine Khenissi
+tunisia 569 Yoann Touzghar
+tunisia 570 Anice Badri
+tunisia 571 Ahmed Akaichi
+
+URUGUAY
+uruguay 92 Uruguay Team Logo
+uruguay 93 Uruguay Team Photo
+uruguay 94 Fernando Muslera
+uruguay 95 Maxi Pereira
+uruguay 96 Diego Godin
+uruguay 97 Martin Caceres
+uruguay 98 Jose Gimenez
+uruguay 99 Sebastian Coates
+uruguay 100 Gaston Silva
+uruguay 101 Mathias Corujo
+uruguay 102 Egidio Arevalo Rios
+uruguay 103 Alvaro Gonzalez
+uruguay 104 Nicolas Lodeiro
+uruguay 105 Carlos Sanchez
+uruguay 106 Cristian Rodriguez
+uruguay 107 Matias Vecino
+uruguay 108 Edinson Cavani
+uruguay 109 Luis Suarez
+uruguay 110 Cristhian Stuani
+uruguay 111 Diego Rolan
+legends 675 30 Uruguay WCL
